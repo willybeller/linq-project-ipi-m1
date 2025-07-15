@@ -1,0 +1,352 @@
+[
+  {
+    "rank": 1,
+    "title": "Avatar",
+    "year": 2009,
+    "worldwide_gross": 2923716026,
+    "genre": "Science Fiction"
+  },
+  {
+    "rank": 2,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "worldwide_gross": 2797501328,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 3,
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "worldwide_gross": 2320250281,
+    "genre": "Science Fiction"
+  },
+  {
+    "rank": 4,
+    "title": "Titanic",
+    "year": 1997,
+    "worldwide_gross": 2264812968,
+    "genre": "Romance/Drama"
+  },
+  {
+    "rank": 5,
+    "title": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "worldwide_gross": 2068233624,
+    "genre": "Science Fiction"
+  },
+  {
+    "rank": 6,
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "worldwide_gross": 2048359754,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 7,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "worldwide_gross": 1922598800,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 8,
+    "title": "Ne Zha 2",
+    "year": 2025,
+    "worldwide_gross": 1899781232,
+    "genre": "Animation"
+  },
+  {
+    "rank": 9,
+    "title": "Inside Out 2",
+    "year": 2024,
+    "worldwide_gross": 1698863816,
+    "genre": "Animation"
+  },
+  {
+    "rank": 10,
+    "title": "Jurassic World",
+    "year": 2015,
+    "worldwide_gross": 1671537444,
+    "genre": "Adventure"
+  },
+  {
+    "rank": 11,
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "worldwide_gross": 1495696292,
+    "genre": "Action"
+  },
+  {
+    "rank": 12,
+    "title": "Frozen II",
+    "year": 2019,
+    "worldwide_gross": 1450026933,
+    "genre": "Animation"
+  },
+  {
+    "rank": 13,
+    "title": "Barbie",
+    "year": 2023,
+    "worldwide_gross": 1447038421,
+    "genre": "Comedy/Fantasy"
+  },
+  {
+    "rank": 14,
+    "title": "The Super Mario Bros. Movie",
+    "year": 2023,
+    "worldwide_gross": 1360847665,
+    "genre": "Animation"
+  },
+  {
+    "rank": 15,
+    "title": "Black Panther",
+    "year": 2018,
+    "worldwide_gross": 1347280838,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 16,
+    "title": "Harry Potter and the Deathly Hallows – Part 2",
+    "year": 2011,
+    "worldwide_gross": 1342795090,
+    "genre": "Fantasy"
+  },
+  {
+    "rank": 17,
+    "title": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "worldwide_gross": 1332539889,
+    "genre": "Science Fiction"
+  },
+  {
+    "rank": 18,
+    "title": "Frozen",
+    "year": 2013,
+    "worldwide_gross": 1276480335,
+    "genre": "Animation"
+  },
+  {
+    "rank": 19,
+    "title": "Beauty and the Beast",
+    "year": 2017,
+    "worldwide_gross": 1263521126,
+    "genre": "Fantasy"
+  },
+  {
+    "rank": 20,
+    "title": "Incredibles 2",
+    "year": 2018,
+    "worldwide_gross": 1242805359,
+    "genre": "Animation"
+  },
+  {
+    "rank": 21,
+    "title": "Iron Man 3",
+    "year": 2013,
+    "worldwide_gross": 1214811252,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 22,
+    "title": "Minions",
+    "year": 2015,
+    "worldwide_gross": 1159444662,
+    "genre": "Animation"
+  },
+  {
+    "rank": 23,
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "worldwide_gross": 1153337496,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 24,
+    "title": "Aquaman",
+    "year": 2018,
+    "worldwide_gross": 1148528393,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 25,
+    "title": "Spider‑Man: Far From Home",
+    "year": 2019,
+    "worldwide_gross": 1132679685,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 26,
+    "title": "Captain Marvel",
+    "year": 2019,
+    "worldwide_gross": 1128274794,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 27,
+    "title": "Transformers: Age of Extinction",
+    "year": 2014,
+    "worldwide_gross": 1104054072,
+    "genre": "Action"
+  },
+  {
+    "rank": 28,
+    "title": "Skyfall",
+    "year": 2012,
+    "worldwide_gross": 1108594137,
+    "genre": "Spy"
+  },
+  {
+    "rank": 29,
+    "title": "Joker",
+    "year": 2019,
+    "worldwide_gross": 1074458282,
+    "genre": "Drama"
+  },
+  {
+    "rank": 30,
+    "title": "Star Wars: The Rise of Skywalker",
+    "year": 2019,
+    "worldwide_gross": 1074144248,
+    "genre": "Science Fiction"
+  },
+  {
+    "rank": 31,
+    "title": "Toy Story 4",
+    "year": 2019,
+    "worldwide_gross": 1073394593,
+    "genre": "Animation"
+  },
+  {
+    "rank": 32,
+    "title": "Toy Story 3",
+    "year": 2010,
+    "worldwide_gross": 1066970811,
+    "genre": "Animation"
+  },
+  {
+    "rank": 33,
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "worldwide_gross": 1066179747,
+    "genre": "Adventure"
+  },
+  {
+    "rank": 34,
+    "title": "Moana 2",
+    "year": 2024,
+    "worldwide_gross": 1059242164,
+    "genre": "Animation"
+  },
+  {
+    "rank": 35,
+    "title": "Aladdin",
+    "year": 2019,
+    "worldwide_gross": 1050693953,
+    "genre": "Fantasy"
+  },
+  {
+    "rank": 36,
+    "title": "Despicable Me 3",
+    "year": 2017,
+    "worldwide_gross": 1034800131,
+    "genre": "Animation"
+  },
+  {
+    "rank": 37,
+    "title": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "worldwide_gross": 1052527014,
+    "genre": "Science Fiction"
+  },
+  {
+    "rank": 38,
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "worldwide_gross": 1045713802,
+    "genre": "Adventure"
+  },
+  {
+    "rank": 39,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "worldwide_gross": 1045296200,
+    "genre": "Adventure"
+  },
+  {
+    "rank": 40,
+    "title": "Frozen (original)",
+    "year": 2013,
+    "worldwide_gross": 1276480335,
+    "genre": "Animation"
+  },
+  {
+    "rank": 41,
+    "title": "The Avengers",
+    "year": 2012,
+    "worldwide_gross": 1518812988,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 42,
+    "title": "The Lion King",
+    "year": 2019,
+    "worldwide_gross": 1660000000,
+    "genre": "Animation"
+  },
+  {
+    "rank": 43,
+    "title": "Furious 7",
+    "year": 2015,
+    "worldwide_gross": 1515341399,
+    "genre": "Action"
+  },
+  {
+    "rank": 44,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "worldwide_gross": 1004558444,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 45,
+    "title": "Jaws",
+    "year": 1975,
+    "worldwide_gross": 470700000,
+    "genre": "Thriller"
+  },
+  {
+    "rank": 46,
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "worldwide_gross": 792910554,
+    "genre": "Science Fiction"
+  },
+  {
+    "rank": 47,
+    "title": "The Lion King (1994)",
+    "year": 1994,
+    "worldwide_gross": 968483777,
+    "genre": "Animation"
+  },
+  {
+    "rank": 48,
+    "title": "Star Wars: Episode V – The Empire Strikes Back",
+    "year": 1980,
+    "worldwide_gross": 547000000,
+    "genre": "Science Fiction"
+  },
+  {
+    "rank": 49,
+    "title": "Doctor Strange",
+    "year": 2016,
+    "worldwide_gross": 677718395,
+    "genre": "Superhero"
+  },
+  {
+    "rank": 50,
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "worldwide_gross": 773328629,
+    "genre": "Superhero"
+  }
+]

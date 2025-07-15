@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musics>
+  <track>
+    <rank>1</rank>
+    <title>Blinding Lights</title>
+    <artist>The Weeknd</artist>
+    <year>2019</year>
+    <genre>Pop</genre>
+    <streams_millions>3000</streams_millions>
+  </track>
+  <track>
+    <rank>2</rank>
+    <title>Shape of You</title>
+    <artist>Ed Sheeran</artist>
+    <year>2017</year>
+    <genre>Pop</genre>
+    <streams_millions>3200</streams_millions>
+  </track>
+  <track>
+    <rank>3</rank>
+    <title>Dance Monkey</title>
+    <artist>Tones and I</artist>
+    <year>2019</year>
+    <genre>Pop</genre>
+    <streams_millions>2700</streams_millions>
+  </track>
+  <track>
+    <rank>4</rank>
+    <title>Rockstar</title>
+    <artist>Post Malone feat. 21 Savage</artist>
+    <year>2017</year>
+    <genre>Hip-Hop</genre>
+    <streams_millions>2500</streams_millions>
+  </track>
+  <track>
+    <rank>5</rank>
+    <title>Someone You Loved</title>
+    <artist>Lewis Capaldi</artist>
+    <year>2018</year>
+    <genre>Pop</genre>
+    <streams_millions>2400</streams_millions>
+  </track>
+  <track>
+    <rank>6</rank>
+    <title>Sunflower</title>
+    <artist>Post Malone & Swae Lee</artist>
+    <year>2018</year>
+    <genre>Hip-Hop</genre>
+    <streams_millions>2300</streams_millions>
+  </track>
+  <track>
+    <rank>7</rank>
+    <title>One Dance</title>
+    <artist>Drake feat. Wizkid & Kyla</artist>
+    <year>2016</year>
+    <genre>Hip-Hop</genre>
+    <streams_millions>2200</streams_millions>
+  </track>
+  <track>
+    <rank>8</rank>
+    <title>Closer</title>
+    <artist>The Chainsmokers feat. Halsey</artist>
+    <year>2016</year>
+    <genre>EDM</genre>
+    <streams_millions>2100</streams_millions>
+  </track>
+  <track>
+    <rank>9</rank>
+    <title>Señorita</title>
+    <artist>Shawn Mendes & Camila Cabello</artist>
+    <year>2019</year>
+    <genre>Pop</genre>
+    <streams_millions>2000</streams_millions>
+  </track>
+  <track>
+    <rank>10</rank>
+    <title>Bad Guy</title>
+    <artist>Billie Eilish</artist>
+    <year>2019</year>
+    <genre>Pop</genre>
+    <streams_millions>1950</streams_millions>
+  </track>
+  <track>
+    <rank>11</rank>
+    <title>Believer</title>
+    <artist>Imagine Dragons</artist>
+    <year>2017</year>
+    <genre>Rock</genre>
+    <streams_millions>1900</streams_millions>
+  </track>
+  <track>
+    <rank>12</rank>
+    <title>God's Plan</title>
+    <artist>Drake</artist>
+    <year>2018</year>
+    <genre>Hip-Hop</genre>
+    <streams_millions>1850</streams_millions>
+  </track>
+  <track>
+    <rank>13</rank>
+    <title>Perfect</title>
+    <artist>Ed Sheeran</artist>
+    <year>2017</year>
+    <genre>Pop</genre>
+    <streams_millions>1800</streams_millions>
+  </track>
+  <track>
+    <rank>14</rank>
+    <title>Lucid Dreams</title>
+    <artist>Juice WRLD</artist>
+    <year>2018</year>
+    <genre>Hip-Hop</genre>
+    <streams_millions>1750</streams_millions>
+  </track>
+  <track>
+    <rank>15</rank>
+    <title>Havana</title>
+    <artist>Camila Cabello feat. Young Thug</artist>
+    <year>2017</year>
+    <genre>Pop</genre>
+    <streams_millions>1700</streams_millions>
+  </track>
+  <track>
+    <rank>16</rank>
+    <title>Starboy</title>
+    <artist>The Weeknd feat. Daft Punk</artist>
+    <year>2016</year>
+    <genre>Pop</genre>
+    <streams_millions>1650</streams_millions>
+  </track>
+  <track>
+    <rank>17</rank>
+    <title>Thinking Out Loud</title>
+    <artist>Ed Sheeran</artist>
+    <year>2014</year>
+    <genre>Pop</genre>
+    <streams_millions>1600</streams_millions>
+  </track>
+  <track>
+    <rank>18</rank>
+    <title>All of Me</title>
+    <artist>John Legend</artist>
+    <year>2013</year>
+    <genre>R&B</genre>
+    <streams_millions>1550</streams_millions>
+  </track>
+  <track>
+    <rank>19</rank>
+    <title>Shallow</title>
+    <artist>Lady Gaga & Bradley Cooper</artist>
+    <year>2018</year>
+    <genre>Pop</genre>
+    <streams_millions>1500</streams_millions>
+  </track>
+  <track>
+    <rank>20</rank>
+    <title>Stressed Out</title>
+    <artist>Twenty One Pilots</artist>
+    <year>2015</year>
+    <genre>Alternative</genre>
+    <streams_millions>1450</streams_millions>
+  </track>
+  <track>
+    <rank>21</rank>
+    <title>Old Town Road</title>
+    <artist>Lil Nas X feat. Billy Ray Cyrus</artist>
+    <year>2019</year>
+    <genre>Country Rap</genre>
+    <streams_millions>1400</streams_millions>
+  </track>
+  <track>
+    <rank>22</rank>
+    <title>Wake Me Up</title>
+    <artist>Avicii</artist>
+    <year>2013</year>
+    <genre>EDM</genre>
+    <streams_millions>1350</streams_millions>
+  </track>
+  <track>
+    <rank>23</rank>
+    <title>Faded</title>
+    <artist>Alan Walker</artist>
+    <year>2015</year>
+    <genre>EDM</genre>
+    <streams_millions>1300</streams_millions>
+  </track>
+  <track>
+    <rank>24</rank>
+    <title>Don't Start Now</title>
+    <artist>Dua Lipa</artist>
+    <year>2019</year>
+    <genre>Pop</genre>
+    <streams_millions>1250</streams_millions>
+  </track>
+  <track>
+    <rank>25</rank>
+    <title>Levitating</title>
+    <artist>Dua Lipa</artist>
+    <year>2020</year>
+    <genre>Pop</genre>
+    <streams_millions>1200</streams_millions>
+  </track>
+  <track>
+    <rank>26</rank>
+    <title>Uptown Funk</title>
+    <artist>Mark Ronson feat. Bruno Mars</artist>
+    <year>2014</year>
+    <genre>Funk</genre>
+    <streams_millions>1150</streams_millions>
+  </track>
+  <track>
+    <rank>27</rank>
+    <title>Despacito</title>
+    <artist>Luis Fonsi feat. Daddy Yankee</artist>
+    <year>2017</year>
+    <genre>Reggaeton</genre>
+    <streams_millions>1100</streams_millions>
+  </track>
+  <track>
+    <rank>28</rank>
+    <title>Love Yourself</title>
+    <artist>Justin Bieber</artist>
+    <year>2015</year>
+    <genre>Pop</genre>
+    <streams_millions>1050</streams_millions>
+  </track>
+  <track>
+    <rank>29</rank>
+    <title>Sorry</title>
+    <artist>Justin Bieber</artist>
+    <year>2015</year>
+    <genre>Pop</genre>
+    <streams_millions>1000</streams_millions>
+  </track>
+  <track>
+    <rank>30</rank>
+    <title>Senorita</title>
+    <artist>Shawn Mendes & Camila Cabello</artist>
+    <year>2019</year>
+    <genre>Pop</genre>
+    <streams_millions>950</streams_millions>
+  </track>
+  <track>
+    <rank>31</rank>
+    <title>Bad Habits</title>
+    <artist>Ed Sheeran</artist>
+    <year>2021</year>
+    <genre>Pop</genre>
+    <streams_millions>900</streams_millions>
+  </track>
+  <track>
+    <rank>32</rank>
+    <title>Peaches</title>
+    <artist>Justin Bieber feat. Daniel Caesar & Giveon</artist>
+    <year>2021</year>
+    <genre>R&B</genre>
+    <streams_millions>850</streams_millions>
+  </track>
+  <track>
+    <rank>33</rank>
+    <title>Stay</title>
+    <artist>The Kid LAROI & Justin Bieber</artist>
+    <year>2021</year>
+    <genre>Pop</genre>
+    <streams_millions>800</streams_millions>
+  </track>
+  <track>
+    <rank>34</rank>
+    <title>Watermelon Sugar</title>
+    <artist>Harry Styles</artist>
+    <year>2019</year>
+    <genre>Pop</genre>
+    <streams_millions>750</streams_millions>
+  </track>
+  <track>
+    <rank>35</rank>
+    <title>Montero (Call Me By Your Name)</title>
+    <artist>Lil Nas X</artist>
+    <year>2021</year>
+    <genre>Pop</genre>
+    <streams_millions>700</streams_millions>
+  </track>
+  <track>
+    <rank>36</rank>
+    <title>Industry Baby</title>
+    <artist>Lil Nas X & Jack Harlow</artist>
+    <year>2021</year>
+    <genre>Hip-Hop</genre>
+    <streams_millions>650</streams_millions>
+  </track>
+  <track>
+    <rank>37</rank>
+    <title>Goosebumps</title>
+    <artist>Travis Scott</artist>
+    <year>2016</year>
+    <genre>Hip-Hop</genre>
+    <streams_millions>600</streams_millions>
+  </track>
+  <track>
+    <rank>38</rank>
+    <title>Heat Waves</title>
+    <artist>Glass Animals</artist>
+    <year>2020</year>
+    <genre>Alternative</genre>
+    <streams_millions>550</streams_millions>
+  </track>
+  <track>
+    <rank>39</rank>
+    <title>Shivers</title>
+    <artist>Ed Sheeran</artist>
+    <year>2021</year>
+    <genre>Pop</genre>
+    <streams_millions>500</streams_millions>
+  </track>
+  <track>
+    <rank>40</rank>
+    <title>Save Your Tears</title>
+    <artist>The Weeknd</artist>
+    <year>2020</year>
+    <genre>Pop</genre>
+    <streams_millions>450</streams_millions>
+  </track>
+  <track>
+    <rank>41</rank>
+    <title>Memories</title>
+    <artist>Maroon 5</artist>
+    <year>2019</year>
+    <genre>Pop</genre>
+    <streams_millions>400</streams_millions>
+  </track>
+  <track>
+    <rank>42</rank>
+    <title>Without Me</title>
+    <artist>Halsey</artist>
+    <year>2018</year>
+    <genre>Pop</genre>
+    <streams_millions>350</streams_millions>
+  </track>
+  <track>
+    <rank>43</rank>
+    <title>Lovely</title>
+    <artist>Billie Eilish & Khalid</artist>
+    <year>2018</year>
+    <genre>Pop</genre>
+    <streams_millions>300</streams_millions>
+  </track>
+  <track>
+    <rank>44</rank>
+    <title>7 rings</title>
+    <artist>Ariana Grande</artist>
+    <year>2019</year>
+    <genre>Pop</genre>
+    <streams_millions>250</streams_millions>
+  </track>
+  <track>
+    <rank>45</rank>
+    <title>In My Feelings</title>
+    <artist>Drake</artist>
+    <year>2018</year>
+    <genre>Hip-Hop</genre>
+    <streams_millions>200</streams_millions>
+  </track>
+  <track>
+    <rank>46</rank>
+    <title>Intentions</title>
+    <artist>Justin Bieber feat. Quavo</artist>
+    <year>2020</year>
+    <genre>Pop</genre>
+    <streams_millions>150</streams_millions>
+  </track>
+  <track>
+    <rank>47</rank>
+    <title>Don't Let Me Down</title>
+    <artist>The Chainsmokers feat. Daya</artist>
+    <year>2016</year>
+    <genre>EDM</genre>
+    <streams_millions>100</streams_millions>
+  </track>
+  <track>
+    <rank>48</rank>
+    <title>Thunder</title>
+    <artist>Imagine Dragons</artist>
+    <year>2017</year>
+    <genre>Rock</genre>
+    <streams_millions>90</streams_millions>
+  </track>
+  <track>
+    <rank>49</rank>
+    <title>Happier</title>
+    <artist>Marshmello & Bastille</artist>
+    <year>2018</year>
+    <genre>EDM</genre>
+    <streams_millions>80</streams_millions>
+  </track>
+  <track>
+    <rank>50</rank>
+    <title>Take Me To Church</title>
+    <artist>Hozier</artist>
+    <year>2013</year>
+    <genre>Alternative</genre>
+    <streams_millions>70</streams_millions>
+  </track>
+</musics>

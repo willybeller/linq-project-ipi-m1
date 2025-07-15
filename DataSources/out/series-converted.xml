@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Records>
+  <Record>
+    <rank>1</rank>
+    <title>Game of Thrones</title>
+    <start_year>2011</start_year>
+    <end_year>2019</end_year>
+    <genre>Fantasy</genre>
+    <platform>HBO</platform>
+  </Record>
+  <Record>
+    <rank>2</rank>
+    <title>Breaking Bad</title>
+    <start_year>2008</start_year>
+    <end_year>2013</end_year>
+    <genre>Crime</genre>
+    <platform>AMC</platform>
+  </Record>
+  <Record>
+    <rank>3</rank>
+    <title>The Sopranos</title>
+    <start_year>1999</start_year>
+    <end_year>2007</end_year>
+    <genre>Crime</genre>
+    <platform>HBO</platform>
+  </Record>
+  <Record>
+    <rank>4</rank>
+    <title>Stranger Things</title>
+    <start_year>2016</start_year>
+    <end_year></end_year>
+    <genre>Science Fiction</genre>
+    <platform>Netflix</platform>
+  </Record>
+  <Record>
+    <rank>5</rank>
+    <title>The Crown</title>
+    <start_year>2016</start_year>
+    <end_year>2023</end_year>
+    <genre>Drama</genre>
+    <platform>Netflix</platform>
+  </Record>
+  <Record>
+    <rank>6</rank>
+    <title>Mad Men</title>
+    <start_year>2007</start_year>
+    <end_year>2015</end_year>
+    <genre>Drama</genre>
+    <platform>AMC</platform>
+  </Record>
+  <Record>
+    <rank>7</rank>
+    <title>Parks and Recreation</title>
+    <start_year>2009</start_year>
+    <end_year>2015</end_year>
+    <genre>Comedy</genre>
+    <platform>NBC</platform>
+  </Record>
+  <Record>
+    <rank>8</rank>
+    <title>The Wire</title>
+    <start_year>2002</start_year>
+    <end_year>2008</end_year>
+    <genre>Crime</genre>
+    <platform>Showtime</platform>
+  </Record>
+  <Record>
+    <rank>9</rank>
+    <title>Black Mirror</title>
+    <start_year>2011</start_year>
+    <end_year></end_year>
+    <genre>Sci‑Fi/Anthology</genre>
+    <platform>Netflix</platform>
+  </Record>
+  <Record>
+    <rank>10</rank>
+    <title>Fleabag</title>
+    <start_year>2016</start_year>
+    <end_year>2019</end_year>
+    <genre>Comedy</genre>
+    <platform>BBC/Amazon</platform>
+  </Record>
+  <Record>
+    <rank>11</rank>
+    <title>The Simpsons</title>
+    <start_year>1989</start_year>
+    <end_year></end_year>
+    <genre>Animation</genre>
+    <platform>Fox</platform>
+  </Record>
+  <Record>
+    <rank>12</rank>
+    <title>Curb Your Enthusiasm</title>
+    <start_year>2000</start_year>
+    <end_year>2024</end_year>
+    <genre>Comedy</genre>
+    <platform>HBO</platform>
+  </Record>
+  <Record>
+    <rank>13</rank>
+    <title>Westworld</title>
+    <start_year>2016</start_year>
+    <end_year>2022</end_year>
+    <genre>Science Fiction</genre>
+    <platform>HBO</platform>
+  </Record>
+  <Record>
+    <rank>14</rank>
+    <title>The Walking Dead</title>
+    <start_year>2010</start_year>
+    <end_year>2022</end_year>
+    <genre>Horror</genre>
+    <platform>AMC</platform>
+  </Record>
+  <Record>
+    <rank>15</rank>
+    <title>Better Call Saul</title>
+    <start_year>2015</start_year>
+    <end_year>2022</end_year>
+    <genre>Crime</genre>
+    <platform>AMC</platform>
+  </Record>
+  <Record>
+    <rank>16</rank>
+    <title>The Mandalorian</title>
+    <start_year>2019</start_year>
+    <end_year></end_year>
+    <genre>Sci‑Fi</genre>
+    <platform>Disney+</platform>
+  </Record>
+  <Record>
+    <rank>17</rank>
+    <title>House of the Dragon</title>
+    <start_year>2022</start_year>
+    <end_year></end_year>
+    <genre>Fantasy</genre>
+    <platform>Max</platform>
+  </Record>
+  <Record>
+    <rank>18</rank>
+    <title>Abbott Elementary</title>
+    <start_year>2021</start_year>
+    <end_year></end_year>
+    <genre>Comedy</genre>
+    <platform>ABC</platform>
+  </Record>
+  <Record>
+    <rank>19</rank>
+    <title>Only Murders in the Building</title>
+    <start_year>2021</start_year>
+    <end_year></end_year>
+    <genre>Comedy</genre>
+    <platform>Disney+</platform>
+  </Record>
+  <Record>
+    <rank>20</rank>
+    <title>Hacks</title>
+    <start_year>2021</start_year>
+    <end_year></end_year>
+    <genre>Comedy/Drama</genre>
+    <platform>Max</platform>
+  </Record>
+  <Record>
+    <rank>21</rank>
+    <title>Evil</title>
+    <start_year>2019</start_year>
+    <end_year>2024</end_year>
+    <genre>Supernatural</genre>
+    <platform>Paramount+</platform>
+  </Record>
+  <Record>
+    <rank>22</rank>
+    <title>Shōgun</title>
+    <start_year>2024</start_year>
+    <end_year></end_year>
+    <genre>Historical Drama</genre>
+    <platform>FX/Peacock</platform>
+  </Record>
+  <Record>
+    <rank>23</rank>
+    <title>3 Body Problem</title>
+    <start_year>2024</start_year>
+    <end_year></end_year>
+    <genre>Sci‑Fi</genre>
+    <platform>Netflix</platform>
+  </Record>
+  <Record>
+    <rank>24</rank>
+    <title>The Bear</title>
+    <start_year>2022</start_year>
+    <end_year></end_year>
+    <genre>Drama</genre>
+    <platform>FX</platform>
+  </Record>
+  <Record>
+    <rank>25</rank>
+    <title>The Great British Baking Show</title>
+    <start_year>2010</start_year>
+    <end_year></end_year>
+    <genre>Reality</genre>
+    <platform>Channel 4/Netflix</platform>
+  </Record>
+  <Record>
+    <rank>26</rank>
+    <title>Taskmaster</title>
+    <start_year>2015</start_year>
+    <end_year></end_year>
+    <genre>Comedy</genre>
+    <platform>Channel 4</platform>
+  </Record>
+  <Record>
+    <rank>27</rank>
+    <title>Babylon</title>
+    <start_year>2024</start_year>
+    <end_year></end_year>
+    <genre>Drama</genre>
+    <platform>HBO</platform>
+  </Record>
+  <Record>
+    <rank>28</rank>
+    <title>Demon Slayer: Kimetsu no Yaiba</title>
+    <start_year>2019</start_year>
+    <end_year></end_year>
+    <genre>Anime</genre>
+    <platform>Crunchyroll</platform>
+  </Record>
+  <Record>
+    <rank>29</rank>
+    <title>Arcane</title>
+    <start_year>2021</start_year>
+    <end_year></end_year>
+    <genre>Animation</genre>
+    <platform>Netflix</platform>
+  </Record>
+  <Record>
+    <rank>30</rank>
+    <title>Succession</title>
+    <start_year>2018</start_year>
+    <end_year>2023</end_year>
+    <genre>Drama</genre>
+    <platform>HBO</platform>
+  </Record>
+  <Record>
+    <rank>31</rank>
+    <title>The Twilight Zone</title>
+    <start_year>1959</start_year>
+    <end_year>1964</end_year>
+    <genre>Anthology</genre>
+    <platform>CBS</platform>
+  </Record>
+  <Record>
+    <rank>32</rank>
+    <title>Buffy the Vampire Slayer</title>
+    <start_year>1997</start_year>
+    <end_year>2003</end_year>
+    <genre>Fantasy/Theater</genre>
+    <platform>WNB</platform>
+  </Record>
+  <Record>
+    <rank>33</rank>
+    <title>Sex and the City</title>
+    <start_year>1998</start_year>
+    <end_year>2004</end_year>
+    <genre>Comedy</genre>
+    <platform>HBO</platform>
+  </Record>
+  <Record>
+    <rank>34</rank>
+    <title>I Love Lucy</title>
+    <start_year>1951</start_year>
+    <end_year>1957</end_year>
+    <genre>Comedy</genre>
+    <platform>CBS</platform>
+  </Record>
+  <Record>
+    <rank>35</rank>
+    <title>The Americans</title>
+    <start_year>2013</start_year>
+    <end_year>2018</end_year>
+    <genre>Spy</genre>
+    <platform>FX</platform>
+  </Record>
+  <Record>
+    <rank>36</rank>
+    <title>Big Little Lies</title>
+    <start_year>2017</start_year>
+    <end_year>2019</end_year>
+    <genre>Drama</genre>
+    <platform>HBO</platform>
+  </Record>
+  <Record>
+    <rank>37</rank>
+    <title>Doctor Who</title>
+    <start_year>2005</start_year>
+    <end_year></end_year>
+    <genre>Sci‑Fi</genre>
+    <platform>BBC</platform>
+  </Record>
+  <Record>
+    <rank>38</rank>
+    <title>Friends</title>
+    <start_year>1994</start_year>
+    <end_year>2004</end_year>
+    <genre>Comedy</genre>
+    <platform>NBC</platform>
+  </Record>
+  <Record>
+    <rank>39</rank>
+    <title>The Office (US)</title>
+    <start_year>2005</start_year>
+    <end_year>2013</end_year>
+    <genre>Comedy</genre>
+    <platform>NBC</platform>
+  </Record>
+  <Record>
+    <rank>40</rank>
+    <title>Seinfeld</title>
+    <start_year>1989</start_year>
+    <end_year>1998</end_year>
+    <genre>Comedy</genre>
+    <platform>NBC</platform>
+  </Record>
+  <Record>
+    <rank>41</rank>
+    <title>The Twilight Zone (revival)</title>
+    <start_year>2019</start_year>
+    <end_year></end_year>
+    <genre>Anthology</genre>
+    <platform>Paramount+</platform>
+  </Record>
+  <Record>
+    <rank>42</rank>
+    <title>The Diplomat</title>
+    <start_year>2023</start_year>
+    <end_year></end_year>
+    <genre>Drama</genre>
+    <platform>Netflix</platform>
+  </Record>
+  <Record>
+    <rank>43</rank>
+    <title>Slow Horses</title>
+    <start_year>2022</start_year>
+    <end_year></end_year>
+    <genre>Spy</genre>
+    <platform>Apple TV+</platform>
+  </Record>
+  <Record>
+    <rank>44</rank>
+    <title>The Responder</title>
+    <start_year>2022</start_year>
+    <end_year></end_year>
+    <genre>Crime</genre>
+    <platform>BBC</platform>
+  </Record>
+  <Record>
+    <rank>45</rank>
+    <title>Mr. Loverman</title>
+    <start_year>2023</start_year>
+    <end_year></end_year>
+    <genre>Drama</genre>
+    <platform>BBC</platform>
+  </Record>
+  <Record>
+    <rank>46</rank>
+    <title>One Day</title>
+    <start_year>2024</start_year>
+    <end_year></end_year>
+    <genre>Romance</genre>
+    <platform>Netflix</platform>
+  </Record>
+  <Record>
+    <rank>47</rank>
+    <title>Shōgun (1980)</title>
+    <start_year>1980</start_year>
+    <end_year>1980</end_year>
+    <genre>Historical Drama</genre>
+    <platform>NBC</platform>
+  </Record>
+  <Record>
+    <rank>48</rank>
+    <title>Justified</title>
+    <start_year>2010</start_year>
+    <end_year>2015</end_year>
+    <genre>Crime</genre>
+    <platform>Fx</platform>
+  </Record>
+  <Record>
+    <rank>49</rank>
+    <title>Line of Duty</title>
+    <start_year>2012</start_year>
+    <end_year>2021</end_year>
+    <genre>Crime</genre>
+    <platform>BBC</platform>
+  </Record>
+  <Record>
+    <rank>50</rank>
+    <title>Derry Girls</title>
+    <start_year>2018</start_year>
+    <end_year>2022</end_year>
+    <genre>Comedy</genre>
+    <platform>Channel 4</platform>
+  </Record>
+</Records>

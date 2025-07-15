@@ -1,0 +1,402 @@
+[
+  {
+    "rank": "1",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "year": "2019",
+    "genre": "Pop",
+    "streams_millions": "3000"
+  },
+  {
+    "rank": "2",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "year": "2017",
+    "genre": "Pop",
+    "streams_millions": "3200"
+  },
+  {
+    "rank": "3",
+    "title": "Dance Monkey",
+    "artist": "Tones and I",
+    "year": "2019",
+    "genre": "Pop",
+    "streams_millions": "2700"
+  },
+  {
+    "rank": "4",
+    "title": "Rockstar",
+    "artist": "Post Malone feat. 21 Savage",
+    "year": "2017",
+    "genre": "Hip-Hop",
+    "streams_millions": "2500"
+  },
+  {
+    "rank": "5",
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "year": "2018",
+    "genre": "Pop",
+    "streams_millions": "2400"
+  },
+  {
+    "rank": "6",
+    "title": "Sunflower",
+    "artist": "Post Malone \u0026 Swae Lee",
+    "year": "2018",
+    "genre": "Hip-Hop",
+    "streams_millions": "2300"
+  },
+  {
+    "rank": "7",
+    "title": "One Dance",
+    "artist": "Drake feat. Wizkid \u0026 Kyla",
+    "year": "2016",
+    "genre": "Hip-Hop",
+    "streams_millions": "2200"
+  },
+  {
+    "rank": "8",
+    "title": "Closer",
+    "artist": "The Chainsmokers feat. Halsey",
+    "year": "2016",
+    "genre": "EDM",
+    "streams_millions": "2100"
+  },
+  {
+    "rank": "9",
+    "title": "Se\u00F1orita",
+    "artist": "Shawn Mendes \u0026 Camila Cabello",
+    "year": "2019",
+    "genre": "Pop",
+    "streams_millions": "2000"
+  },
+  {
+    "rank": "10",
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "year": "2019",
+    "genre": "Pop",
+    "streams_millions": "1950"
+  },
+  {
+    "rank": "11",
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "year": "2017",
+    "genre": "Rock",
+    "streams_millions": "1900"
+  },
+  {
+    "rank": "12",
+    "title": "God\u0027s Plan",
+    "artist": "Drake",
+    "year": "2018",
+    "genre": "Hip-Hop",
+    "streams_millions": "1850"
+  },
+  {
+    "rank": "13",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "year": "2017",
+    "genre": "Pop",
+    "streams_millions": "1800"
+  },
+  {
+    "rank": "14",
+    "title": "Lucid Dreams",
+    "artist": "Juice WRLD",
+    "year": "2018",
+    "genre": "Hip-Hop",
+    "streams_millions": "1750"
+  },
+  {
+    "rank": "15",
+    "title": "Havana",
+    "artist": "Camila Cabello feat. Young Thug",
+    "year": "2017",
+    "genre": "Pop",
+    "streams_millions": "1700"
+  },
+  {
+    "rank": "16",
+    "title": "Starboy",
+    "artist": "The Weeknd feat. Daft Punk",
+    "year": "2016",
+    "genre": "Pop",
+    "streams_millions": "1650"
+  },
+  {
+    "rank": "17",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "year": "2014",
+    "genre": "Pop",
+    "streams_millions": "1600"
+  },
+  {
+    "rank": "18",
+    "title": "All of Me",
+    "artist": "John Legend",
+    "year": "2013",
+    "genre": "R\u0026B",
+    "streams_millions": "1550"
+  },
+  {
+    "rank": "19",
+    "title": "Shallow",
+    "artist": "Lady Gaga \u0026 Bradley Cooper",
+    "year": "2018",
+    "genre": "Pop",
+    "streams_millions": "1500"
+  },
+  {
+    "rank": "20",
+    "title": "Stressed Out",
+    "artist": "Twenty One Pilots",
+    "year": "2015",
+    "genre": "Alternative",
+    "streams_millions": "1450"
+  },
+  {
+    "rank": "21",
+    "title": "Old Town Road",
+    "artist": "Lil Nas X feat. Billy Ray Cyrus",
+    "year": "2019",
+    "genre": "Country Rap",
+    "streams_millions": "1400"
+  },
+  {
+    "rank": "22",
+    "title": "Wake Me Up",
+    "artist": "Avicii",
+    "year": "2013",
+    "genre": "EDM",
+    "streams_millions": "1350"
+  },
+  {
+    "rank": "23",
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "year": "2015",
+    "genre": "EDM",
+    "streams_millions": "1300"
+  },
+  {
+    "rank": "24",
+    "title": "Don\u0027t Start Now",
+    "artist": "Dua Lipa",
+    "year": "2019",
+    "genre": "Pop",
+    "streams_millions": "1250"
+  },
+  {
+    "rank": "25",
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "year": "2020",
+    "genre": "Pop",
+    "streams_millions": "1200"
+  },
+  {
+    "rank": "26",
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson feat. Bruno Mars",
+    "year": "2014",
+    "genre": "Funk",
+    "streams_millions": "1150"
+  },
+  {
+    "rank": "27",
+    "title": "Despacito",
+    "artist": "Luis Fonsi feat. Daddy Yankee",
+    "year": "2017",
+    "genre": "Reggaeton",
+    "streams_millions": "1100"
+  },
+  {
+    "rank": "28",
+    "title": "Love Yourself",
+    "artist": "Justin Bieber",
+    "year": "2015",
+    "genre": "Pop",
+    "streams_millions": "1050"
+  },
+  {
+    "rank": "29",
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "year": "2015",
+    "genre": "Pop",
+    "streams_millions": "1000"
+  },
+  {
+    "rank": "30",
+    "title": "Senorita",
+    "artist": "Shawn Mendes \u0026 Camila Cabello",
+    "year": "2019",
+    "genre": "Pop",
+    "streams_millions": "950"
+  },
+  {
+    "rank": "31",
+    "title": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "year": "2021",
+    "genre": "Pop",
+    "streams_millions": "900"
+  },
+  {
+    "rank": "32",
+    "title": "Peaches",
+    "artist": "Justin Bieber feat. Daniel Caesar \u0026 Giveon",
+    "year": "2021",
+    "genre": "R\u0026B",
+    "streams_millions": "850"
+  },
+  {
+    "rank": "33",
+    "title": "Stay",
+    "artist": "The Kid LAROI \u0026 Justin Bieber",
+    "year": "2021",
+    "genre": "Pop",
+    "streams_millions": "800"
+  },
+  {
+    "rank": "34",
+    "title": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "year": "2019",
+    "genre": "Pop",
+    "streams_millions": "750"
+  },
+  {
+    "rank": "35",
+    "title": "Montero (Call Me By Your Name)",
+    "artist": "Lil Nas X",
+    "year": "2021",
+    "genre": "Pop",
+    "streams_millions": "700"
+  },
+  {
+    "rank": "36",
+    "title": "Industry Baby",
+    "artist": "Lil Nas X \u0026 Jack Harlow",
+    "year": "2021",
+    "genre": "Hip-Hop",
+    "streams_millions": "650"
+  },
+  {
+    "rank": "37",
+    "title": "Goosebumps",
+    "artist": "Travis Scott",
+    "year": "2016",
+    "genre": "Hip-Hop",
+    "streams_millions": "600"
+  },
+  {
+    "rank": "38",
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "year": "2020",
+    "genre": "Alternative",
+    "streams_millions": "550"
+  },
+  {
+    "rank": "39",
+    "title": "Shivers",
+    "artist": "Ed Sheeran",
+    "year": "2021",
+    "genre": "Pop",
+    "streams_millions": "500"
+  },
+  {
+    "rank": "40",
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "year": "2020",
+    "genre": "Pop",
+    "streams_millions": "450"
+  },
+  {
+    "rank": "41",
+    "title": "Memories",
+    "artist": "Maroon 5",
+    "year": "2019",
+    "genre": "Pop",
+    "streams_millions": "400"
+  },
+  {
+    "rank": "42",
+    "title": "Without Me",
+    "artist": "Halsey",
+    "year": "2018",
+    "genre": "Pop",
+    "streams_millions": "350"
+  },
+  {
+    "rank": "43",
+    "title": "Lovely",
+    "artist": "Billie Eilish \u0026 Khalid",
+    "year": "2018",
+    "genre": "Pop",
+    "streams_millions": "300"
+  },
+  {
+    "rank": "44",
+    "title": "7 rings",
+    "artist": "Ariana Grande",
+    "year": "2019",
+    "genre": "Pop",
+    "streams_millions": "250"
+  },
+  {
+    "rank": "45",
+    "title": "In My Feelings",
+    "artist": "Drake",
+    "year": "2018",
+    "genre": "Hip-Hop",
+    "streams_millions": "200"
+  },
+  {
+    "rank": "46",
+    "title": "Intentions",
+    "artist": "Justin Bieber feat. Quavo",
+    "year": "2020",
+    "genre": "Pop",
+    "streams_millions": "150"
+  },
+  {
+    "rank": "47",
+    "title": "Don\u0027t Let Me Down",
+    "artist": "The Chainsmokers feat. Daya",
+    "year": "2016",
+    "genre": "EDM",
+    "streams_millions": "100"
+  },
+  {
+    "rank": "48",
+    "title": "Thunder",
+    "artist": "Imagine Dragons",
+    "year": "2017",
+    "genre": "Rock",
+    "streams_millions": "90"
+  },
+  {
+    "rank": "49",
+    "title": "Happier",
+    "artist": "Marshmello \u0026 Bastille",
+    "year": "2018",
+    "genre": "EDM",
+    "streams_millions": "80"
+  },
+  {
+    "rank": "50",
+    "title": "Take Me To Church",
+    "artist": "Hozier",
+    "year": "2013",
+    "genre": "Alternative",
+    "streams_millions": "70"
+  }
+]
